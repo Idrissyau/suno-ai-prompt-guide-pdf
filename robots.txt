@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://idrissyau.github.io/suno-ai-prompt-guide-pdf/sitemap.xml
